@@ -3,6 +3,7 @@
 ## The deployed Jobly application can be view at:
 
 Features include:
+    A variety of companies listed and their associated open position.
     Searching for jobs based on keywords or fragments.
 
 ## Getting Started with Create React App
