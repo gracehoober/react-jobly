@@ -1,4 +1,8 @@
-# Getting Started with Jobly's Front-end
+# Jobly is a fullstack application focused on listing companies and their open jobs.
+Features include:
+    Searching for jobs based on keywords or fragments.
+    
+# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
