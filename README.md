@@ -1,7 +1,10 @@
 # Jobly is a fullstack application focused on listing companies and their open jobs.
+## This application is Jobly's front-end and was created a month after the back-end. Please check out my express-jobly repo, pinned to the top of my profile, for the application's back-end.
+## The combined Jobly stack can be viewed at:
+
 Features include:
     Searching for jobs based on keywords or fragments.
-    
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
