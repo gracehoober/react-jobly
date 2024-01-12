@@ -5,6 +5,9 @@
 Features include:
     A variety of companies listed and their associated open position.
     Searching for jobs based on keywords or fragments.
+Future Features
+1. Creating a more robust user profile including upload their application documents including resume's and cover letters.
+2. Allowing users to apply for specific job.
 
 ## Getting Started with Create React App
 
