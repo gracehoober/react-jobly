@@ -1,13 +1,17 @@
 # Jobly is a fullstack application focused on listing companies and their open jobs.
-## This application is Jobly's front-end and was created a month after the back-end. Please check out my express-jobly repo, pinned to the top of my profile, for the application's back-end.
-## The deployed Jobly application can be view at:
+## This application is Jobly's frontend. Please check out my express-jobly repo, pinned to the top of my profile, for the application's back-end.
 
-Features include:
+To see a demo of the application visit: https://www.loom.com/share/560f21a16f2e4df7ad0395f38a459d0a
+
+Current features:
     A variety of companies listed and their associated open position.
     Searching for jobs based on keywords or fragments.
-Future Features
+
+Future features
 1. Creating a more robust user profile including upload their application documents including resume's and cover letters.
 2. Allowing users to apply for specific job.
+
+
 
 ## Getting Started with Create React App
 
